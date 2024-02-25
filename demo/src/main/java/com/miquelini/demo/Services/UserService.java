@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.miquelini.demo.User;
+import com.miquelini.demo.Entities.User;
 import com.miquelini.demo.Repositories.UserRepository;
 
 @Service
